@@ -16,6 +16,9 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | [Exercise 05](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/Hadoop/ex_05)  | Average  |
 | [Exercise 06](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/Hadoop/ex_06)  | Min/Max  |
 | [Exercise 07](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/Hadoop/ex_07)  | Inverted index  |
+| [Exercise 08](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/Hadoop/ex_08)  | Total/Average  |
+| [Exercise 09](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/Hadoop/ex_09)  | Unstructed WordCount  |
+| [Exercise 10](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/Hadoop/ex_10)  | Counter  |
 
 ### Spark RDD
 > Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/02_Spark_Exercises_BigDataNB.pdf)
