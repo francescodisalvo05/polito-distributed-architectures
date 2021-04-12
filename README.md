@@ -21,6 +21,8 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | [Exercise 10](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_10)  | Counter  |
 | [Exercise 11](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_11)  | Average with HashMap  |
 | [Exercise 12](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_12)  | Filter with shared params |
+| [Exercise 13](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_13)  | Top-1 |
+| [Exercise 13bis](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_13bis)  | Top-2 with personalized type |
 
 ### Spark RDD
 > Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/02_Spark_Exercises_BigDataNB.pdf)
