@@ -36,3 +36,8 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | [Exercise 34](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_34.ipynb)  | Dates associated with the maximum value |
 | [Exercise 35](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_35.ipynb)  | Dates associated with the maximum value   |
 | [Exercise 36](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_36.ipynb)  | Average value  |
+| [Exercise 37](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_37.ipynb)  | Maximum values  |
+| [Exercise 38](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_38.ipynb)  | Pollution analysis  |
+| [Exercise 39](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_39.ipynb)  | Critical dates analysis  |
+| [Exercise 39bis](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_39bis.ipynb)  | Critical dates analysis  |
+
