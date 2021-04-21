@@ -27,17 +27,14 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 ### Spark RDD
 > Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/02_Spark_Exercises_BigDataNB.pdf)
 
-| Number  | Exercise |
-| ------------- | ------------- |
-| [Exercise 30](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_30.ipynb)  | Log filtering  |
-| [Exercise 31](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_31.ipynb)  | Log Analysis  |
-| [Exercise 32](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_32.ipynb)  | Maximum value  |
-| [Exercise 33](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_33.ipynb)  | Top k maximum values  |
-| [Exercise 34](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_34.ipynb)  | Dates associated with the maximum value |
+| Number  | Exercise | Number  | Exercise |
+| ------------- | ------------- | ------------- | ------------- |
+| [Exercise 30](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_30.ipynb)  | Log filtering  | [Exercise 39](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_39.ipynb)  | Critical dates analysis  |
+| [Exercise 31](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_31.ipynb)  | Log Analysis  | [Exercise 39bis](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_39bis.ipynb)  | Critical dates analysis  |
+| [Exercise 32](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_32.ipynb)  | Maximum value  | [Exercise 40](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_40.ipynb)  | Order  |
+| [Exercise 33](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_33.ipynb)  | Top k maximum values  | [Exercise 41](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_41.ipynb)  | Top  |
+| [Exercise 34](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_34.ipynb)  | Dates associated with the maximum value | [Exercise 42](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_42.ipynb)  | Mapping  |
 | [Exercise 35](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_35.ipynb)  | Dates associated with the maximum value   |
 | [Exercise 36](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_36.ipynb)  | Average value  |
 | [Exercise 37](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_37.ipynb)  | Maximum values  |
 | [Exercise 38](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_38.ipynb)  | Pollution analysis  |
-| [Exercise 39](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_39.ipynb)  | Critical dates analysis  |
-| [Exercise 39bis](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_39bis.ipynb)  | Critical dates analysis  |
-
