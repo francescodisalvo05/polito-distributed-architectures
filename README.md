@@ -38,3 +38,11 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | [Exercise 36](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_36.ipynb)  | Average value  | [Exercise 44](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_44.ipynb)  | Misleading profile section  |
 | [Exercise 37](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_37.ipynb)  | Maximum values  | [Exercise 45](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_45.ipynb)  | Profile update  |
 | [Exercise 38](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_38.ipynb)  | Pollution analysis  | [Exercise 46](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkRDD/ex_46.ipynb)  | Time series analysis  |
+
+### Spark SQL
+> Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/02_Spark_ExerciseSparkSQLNB.pdf)
+
+| Number  | Exercise | Number  | Exercise |
+| ------------- | ------------- | ------------- | ------------- |
+| [Exercise 47](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_47.ipynb)  | Filter  | [Exercise 49](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_49.ipynb)  | UDF  |
+| [Exercise 48](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_48.ipynb)  | GroupBy  | [Exercise 50](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_50.ipynb)  | UDF  |
