@@ -7,10 +7,10 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 ### MapReduce
 > Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/01_MapReduce_Exercises_BigData.pdf)
 
-| Number  | Exercise |
-| ------------- | ------------- |
-| [Exercise 01](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_01)  | WordCount  |
-| [Exercise 02](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_02)  | WordCount  |
+| Number  | Exercise | Number  | Exercise |
+| ------------- | ------------- | ------------- | ------------- |
+| [Exercise 01](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_01)  | WordCount  | [Exercise 14](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_14)  | Distinct |
+| [Exercise 02](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_02)  | WordCount  | [Exercise 15](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_15)  | Distinct + ID |
 | [Exercise 03](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_03)  | Filtering  |
 | [Exercise 04](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_04)  | Filtering  |
 | [Exercise 05](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_05)  | Average  |
