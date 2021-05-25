@@ -22,8 +22,8 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | [Exercise 10](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_10)  | Counter  | [Exercise 23bis](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_23bis)  | Job Chaining + Cache |
 | [Exercise 11](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_11)  | Average with HashMap  | [Exercise 24](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_24)  | Grouping |
 | [Exercise 12](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_12)  | Filter with shared params | [Exercise 25](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_25)  | Job Chaining |
-| [Exercise 13](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_13)  | Top-1 |
-| [Exercise 13bis](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_13bis)  | Top-2 with personalized type |
+| [Exercise 13](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_13)  | Top-1 | [Exercise 26](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_26)  | Map Only + Cache |
+| [Exercise 13bis](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_13bis)  | Top-2 with personalized type | [Exercise 27](https://github.com/francescodisalvo05/polito-distributed-architectures/tree/main/MapReduce/ex_27)  | Map Only + Cache |
 
 ### Spark RDD
 > Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/02_Spark_Exercises_BigDataNB.pdf)
