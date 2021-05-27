@@ -47,3 +47,10 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | ------------- | ------------- | ------------- | ------------- |
 | [Exercise 47](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_47.ipynb)  | Filter  | [Exercise 49](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_49.ipynb)  | UDF  |
 | [Exercise 48](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_48.ipynb)  | GroupBy  | [Exercise 50](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkSQL/ex_50.ipynb)  | UDF  |
+
+### Spark MLlib
+> Text of the exercise : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/03_MLlib_Exercises_BigDataNB.pdf)
+
+| Number  | Exercise | 
+| ------------- | ------------- | 
+| [Exercise 51](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkMLlib/ex_51.ipynb)  | Logistic Regression  | 
