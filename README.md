@@ -54,3 +54,12 @@ Assignements and exercises for the "Distributed Architectures" course at Politec
 | Number  | Exercise | 
 | ------------- | ------------- | 
 | [Exercise 51](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkMLlib/ex_51.ipynb)  | Logistic Regression  | 
+
+### Spark GraphFrame
+> Text of the exercises : [here](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Text/04_GraphFrame_Exercises_BigDataNB.pdf)
+
+| Number  | Exercise | Number  | Exercise |
+| ------------- | ------------- | ------------- | ------------- |
+| [Exercise 52](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkGraphFrame/ex_52.ipynb)  | inDegrees  | [Exercise 55](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkGraphFrame/ex_55.ipynb)  | MOTIF  |
+| [Exercise 53](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkGraphFrame/ex_53.ipynb)  | inDegrees + Max | [Exercise 56](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkGraphFrame/ex_56.ipynb)  | MOTIF  |
+| [Exercise 54](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkGraphFrame/ex_54.ipynb)  | MOTIF | [Exercise 57](https://github.com/francescodisalvo05/polito-distributed-architectures/blob/main/Spark/SparkGraphFrame/ex_57.ipynb)  | Shortest Path  |
